@@ -1,6 +1,7 @@
 <div align="center">
 <h2 align="center"> 📚 2018년도부터 공부해온 개발 서적들 📚 </h2>
-<h4 align="center"> 한창 개발 개념들을 차곡차곡 쌓아나가고자, 정독했던 책들모음이다. 닳고 닳았군.. </h4>
+<h4 align="center"> 한창 개발 개념들을 차곡차곡 쌓아나가고자, 정독했던 책들모음이다. <br>
+  닳고 닳았다.. </h4>
 <br>
 <img src="https://user-images.githubusercontent.com/59492312/142136650-f7b8c544-17e5-4f2b-9c32-85b7bcd5b7da.jpg" width="400px">
 <img src="https://user-images.githubusercontent.com/59492312/142136790-8220b3bc-fea8-430a-b834-4f01b7b9b527.jpg" width="400px"><br><br><br>
