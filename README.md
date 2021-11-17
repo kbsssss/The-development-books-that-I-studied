@@ -1,4 +1,3 @@
-# The-development-books-that-I-studied
 <p align="center">
 <h3> 📚 2018년도부터 공부해온 책목록들 📚 </h3>
 
